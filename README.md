@@ -1,2 +1,3 @@
-# Software_Development_Process
-Notes from Georgia Tech's Software Development Process class that I took on Udacity.com
+# Software Development Process
+
+This repository contains all of my notes from the Software Development Process class I took on Udacity along with some of my own work in the field of Quality Assurance as a Software Development Engineer in Test and as an Acceptance Tester
