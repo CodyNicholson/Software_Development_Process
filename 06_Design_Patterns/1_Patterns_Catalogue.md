@@ -8,7 +8,7 @@ Delegation Pattern, Interface Pattern, Proxy Pattern
 
 ### Creational Patterns are the patterns that support object creation:
 
-Abstract factory pattern, Factory method pattern, Laay Initialization Pattern, Singleton Pattern
+Abstract factory pattern, Factory method pattern, Lazy Initialization Pattern, Singleton Pattern
 
 ***
 
