@@ -10,7 +10,7 @@ Design activities could consist of Architectural Design, Abstract Specification,
 
 We will usually go from a high level Architectural Design to a low level Algorithm Design
 
--
+***
 
 These activities result in a set of Design Products which describe various characteristics of the system
 
